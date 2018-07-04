@@ -3,7 +3,9 @@
 	"loadExtra": true,
 	"loadExtraMs": 1000,
 	"blockedZones": [
-		9950
+		9950,
+		9920,
+		9720
 	],
 	"skipCutscenes": false,
 	"skipCutscenesZones": [
