@@ -2,7 +2,7 @@
   "files": {
     "index.js": "3102caec778a9a430f6f8150c4d9239a04039404cf8216ed312a5340c59692d0",
     "setting_migration.js": {"overwrite": false,"hash": "fa52a1d0f9bc95e8c39fd9b94593fc80817f1ab0660cdece0f35f93bc8711619"},
-    "module.json": "b61afe15dbaa147afd675713906dacbb1b731d4fb42b16e19d84ac55b1da8565",
+    "module.json": "6b60082676cbb3a74dede05d42476d0fa45393f8106c2f4dfa5919b429a60a02",
     "README.md": "d66f10928d32f46fbb9796d9bcf1c39a15ce291d03dcce724dd8128910cb7fc0"
   },
   "defs": {
