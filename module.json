@@ -1,4 +1,11 @@
 {
-    "servers": ["https://raw.githubusercontent.com/SaltyMonkey/skill-prediction/master/"],
-    "supportUrl": "https://github.com/SaltyMonkey/skill-prediction/issues"
+	"disableAutoUpdate": false,
+	"options": {
+		"niceName": "QuickLoad",
+		"settingsVersion": 2,
+		"settingsFile": "config.json",
+		"settingsMigrator": "setting_migration.js"
+	},
+    "servers": ["https://raw.githubusercontent.com/Yuyuko-sama/quick-load/master/"],
+    "supportUrl": "https://discord.gg/maqBmJV"
 }
