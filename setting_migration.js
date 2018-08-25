@@ -6,9 +6,20 @@ let DefaultSettings = {
 	"loadExtra": true,
 	"loadExtraMs": 1000,
 	"blockedZones": [
+		110,
+		111,
+		112,
+		113,
+		114,
+		115,
+		116,
+		117,
+		118,
+		110,
 		9920,
 		9720,
-		9950
+		9950,
+		9066
 	],
 	"skipCutscenes": false,
 	"skipCutscenesZones": [
@@ -17,7 +28,7 @@ let DefaultSettings = {
 	]
 }
 
-module.exports = function MigrateSetting(from_ver, to_ver, settings) {
+module.exports = function MigrateSettings(from_ver, to_ver, settings) {
 	if(from_ver === undefined) {
 		return Object.assign(Object.assign({}, DefaultSettings), settings);
 	} else if(from_ver === null) {
