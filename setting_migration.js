@@ -4,7 +4,7 @@ let DefaultSettings = {
 	"enabled": true,
 	"loadDistance": 1000,
 	"loadExtra": true,
-	"loadExtraMs": 1000,
+	"loadExtraMs": 2500,
 	"blockedZones": [
 		110,
 		111,
