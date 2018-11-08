@@ -3,7 +3,7 @@
 		"README.md": "d66f10928d32f46fbb9796d9bcf1c39a15ce291d03dcce724dd8128910cb7fc0",
 		"index.js": "3401332d4e69d9c03927d218f514f11ff5db3eb2056cd8d5fefe5a8634679f27",
 		"module.json": "6b60082676cbb3a74dede05d42476d0fa45393f8106c2f4dfa5919b429a60a02",
-		"setting_migration.js": "e605f3a49d6deeab0316b968831a38484e3bcac07025d3091e3b22f9aae14a60"
+		"setting_migration.js": "f7d968abfb9b61e2c8dc83add70d2c846f0d2d5fca88bd8fb59bdb44ce3234ad"
 	},
 	"defs": {
 		"C_END_MOVIE": 1,
